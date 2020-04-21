@@ -2,4 +2,4 @@
 基于httpclient的进一步封装，http请求时只需要写接口即可，具体的请求通过动态代理方式自动完成
 
 使用时需要配置一个调用端的包路径
->xclient_basepackage=
+>xclient_basepackage=com.liuxing.xrequest.example
